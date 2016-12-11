@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Libs</string>
+    <string name="doing_message">程序处理中，请稍后！</string>
+    <string name="finished_message">已完成，跳转中...</string>
+</resources>

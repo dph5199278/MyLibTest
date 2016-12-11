@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Libs</string>
+    <string name="doing_message">Please wait!</string>
+    <string name="finished_message">Finished...</string>
+</resources>
